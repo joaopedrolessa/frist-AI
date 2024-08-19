@@ -1,4 +1,3 @@
-```markdown
 # Projeto de OCR com Tesseract e Python
 
 Este projeto utiliza Tesseract OCR e Python para extrair texto de imagens. Ele processa todas as imagens em um diretório de entrada e salva o texto extraído em arquivos `.txt` em um diretório de saída.
